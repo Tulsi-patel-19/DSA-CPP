@@ -1,0 +1,1 @@
+// build array form permutation .
